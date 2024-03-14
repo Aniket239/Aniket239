@@ -49,10 +49,12 @@ Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-t
 # 📊 GitHub Stats:
 
 <p align="center">
-  
-| ![streak graph](https://streak-stats.demolab.com?user=aniket239&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=0&date_format=M%20j%5B,%20Y%5D&order=3) | ![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=aniket239&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2&custom_title=Languages) |
-| --- | --- |
-
+  <table>
+    <tr>
+      <td><img src="https://streak-stats.demolab.com?user=aniket239&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=0&date_format=M%20j%5B,%20Y%5D&order=3" width="580" alt="streak graph" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket239&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2&custom_title=Languages" width="450" alt="languages graph" /></td>
+    </tr>
+  </table>
 </p>
 
 

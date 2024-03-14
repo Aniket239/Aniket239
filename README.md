@@ -48,9 +48,14 @@ Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-t
 
 # 📊 GitHub Stats:
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket239&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=aniket239&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=0&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket239&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=aniket239&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=aniket239&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=0&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket239&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph" /></td>
+  </tr>
+</table>
+
 
 ###
 

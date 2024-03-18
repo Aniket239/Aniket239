@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 🔭I'm a Full Stack Developer currently working at Jain Group<br>👯 I’m looking to collaborate on MERN stack Projects<br>🌱 I’m currently learning MERN Stack
 

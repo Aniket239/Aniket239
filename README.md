@@ -1,6 +1,6 @@
 # About:
 
-🔭I'm a Full Stack Developer currently working at Jain Group<br>👯 I’m looking to collaborate on MERN stack Projects<br>🌱 I’m currently learning MERN Stack
+🔭I'm a Mobile Application Developer currently working at Altis Infonet Private Limited<br>👯 I’m looking to collaborate on React Native Projects
 
 ### Profile Visits
 
